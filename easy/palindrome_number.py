@@ -6,7 +6,8 @@ class Solution:
         if x < 0:
             return False
 
-        values = str(x).split()
+        values = [int(i) for i in str(x)]
+        print(values)
         for (i, value) in enumerate(values):
             print(i, value)
             if value != values[len(values) - i - 1]:
