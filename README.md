@@ -20,4 +20,5 @@
 8. [x] [String to Integer (atoi) (04-08-2023)](medium/string_to_integer.py)
 11. [x] [Container With Most Water (04-08-2023)](medium/container_with_most_water.py)
 12. [x] [Integer to Roman (04-08-2023)](medium/integer_to_roman.py)
-15. [ ] [3Sum](medium/3sum.py)
+15. [x] [3Sum (04-10-2023)](medium/3sum.py)
+16. [ ] [3Sum Closest](medium/3sum_closest.py)
